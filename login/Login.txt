@@ -1,0 +1,21 @@
+Login:
+
+ 1 - Criar a base de dados login;
+ 2 - Dentro da db , criar a tabela users, com as seguintes colunas:
+    - id;
+    - full_name;
+    - email;
+    - password.
+
+
+NOTA: Ver o maximo que posso alterar, tanto no codigo como na base de dados.
+
+
+
+
+
+
+
+
+
+video: https://www.youtube.com/watch?v=2MpZwFoBPjQ
